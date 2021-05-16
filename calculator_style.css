@@ -1,0 +1,43 @@
+table,td{
+			border: 0.5px solid rgb(44,45,41);
+			border-spacing:0px;
+			
+
+
+		}
+		#text{
+			height: 60px;
+			width: 250px;
+			background-color: rgb(47,48,48);
+			
+			text-align: right;
+			color: rgb(255,255,255);
+			font-size: 50px;
+			border-top: 2px solid rgb(43,44,43);
+            border-radius: 8px;
+
+		}
+		.buttons{
+			background-color: rgb(65,66,66);
+			color: rgb(255,255,255);
+			font-size: 30px;
+			border: 1px solid rgb(44,45,41);
+			width: 100%;
+
+	
+		}
+		.button-right{
+			background-color: rgb(255,159,11);
+			color: rgb(255,255,255);
+			font-size: 30px;
+			border: 1px solid rgb(44,45,41);
+			width: 100%;
+		}
+		.button-nextline{
+			background-color: rgb(95,96,95);
+			color: rgb(255,255,255);
+			font-size: 30px;
+			border: 1px solid rgb(44,45,41);
+			width: 100%;
+		}
+		
